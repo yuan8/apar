@@ -1,0 +1,15 @@
+{
+  "name": "treejs",
+  "homepage": "https://github.com/Wizek/Tree",
+  "version": "0.6.1",
+  "_release": "0.6.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.6.1",
+    "commit": "c794e3192e2f2fb5f44580cc8196b77aba1b8f9a"
+  },
+  "_source": "https://github.com/Wizek/Tree.git",
+  "_target": "^0.6.1",
+  "_originalSource": "treejs",
+  "_direct": true
+}

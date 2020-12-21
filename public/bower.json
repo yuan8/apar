@@ -1,0 +1,26 @@
+{
+  "name": "yuan",
+  "authors": [
+    "yuan putra <bhalayuan@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sweetalert2": "^10.3.5",
+    "jquery-ui": "^1.12.1",
+    "bootstrap-sweetalert": "^1.0.1",
+    "select2": "^4.0.13",
+    "axios": "^0.20.0",
+    "treejs": "^0.6.1"
+  }
+}

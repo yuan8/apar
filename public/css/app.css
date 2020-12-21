@@ -1,0 +1,75 @@
+.text-white{
+	color: #fff;
+}
+
+.search_content .select2-container .select2-selection{
+	height: 40px!important;
+	line-height: 40px!important;
+
+
+}
+
+.gallery-container{
+    min-height: 100px;
+    background: #ddd;
+
+}
+.w-auto{
+    width:auto!important;
+    margin:auto;
+}
+.list-price,.list-features{
+    width: 100%;
+
+}
+   
+.background-primary-g{
+	background: linear-gradient(163deg, rgba(102,51,153,1) 17%, rgba(156,99,213,1) 52%, rgba(142,26,135,1) 88%);
+}   
+
+.background-dark{
+	background: #222;}   
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    border-radius: 100%;
+ 
+}
+.carousel-control-prev,.carousel-control-next
+{
+    background: transparent;
+    border: none;
+
+}
+.affix{
+	position: fixed;
+}
+.carousel-inner{
+	height: 100%;
+}
+.carousel-item {
+	height: 100%;
+}
+
+.full-content{
+	margin-left: -2rem!important;
+	margin-right: -2rem!important;
+}
+
+.p-10{
+	padding: 10px;
+}
+.w-100{
+	min-width: 100%;
+}
+.min-h-100{
+	height: 100px;
+}
+
+.w-panoramic{
+	min-width: 150%;
+	margin-top: -20%;
+	margin-left:-10%;
+}
+
+.box-images{
+		overflow: hidden;;
+}
