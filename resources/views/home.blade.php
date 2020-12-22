@@ -15,7 +15,9 @@
 </style>
 
 <div class="container">
-
+    @php
+      dd(Auth::check());
+    @endphp
 
     <div class="row">
         <div class="col-md-8">
