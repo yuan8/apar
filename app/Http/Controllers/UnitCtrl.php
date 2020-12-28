@@ -146,7 +146,7 @@ class UnitCtrl extends Controller
 			"broom_air_conditioner"=>$request->broom_air_conditioner??false,
 			"broom_king_bed"=>$request->broom_king_bed??false,
 			"broom_queen_bed"=>$request->broom_queen_bed??false,
-			"broom_sigle_bed"=>$request->broom_sigle_bed??false,
+			"broom_single_bed"=>$request->broom_single_bed??false,
 			"broom_hanger"=>$request->broom_hanger??false,
 			"broom_sofa"=>$request->broom_sofa??false,
 			"broom_tv"=>$request->broom_tv??false,
